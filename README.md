@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm I'm Apo_Tek</h1>
+<h1 align="center">Hey there 👋, I'm Apo_Tek</h1>
 <h3 align="center">Coding is my hobby</h3>
 
 - 🔭 I'm currently pursuing **a master's degree in physics engineering**

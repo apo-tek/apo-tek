@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently pursuing **a master's degree in physics engineering**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** & **Go**
 
 - 💬 I speak **french, dutch and english**
 

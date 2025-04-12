@@ -3,8 +3,6 @@
 
 - 🔭 I'm currently pursuing **a master's degree in physics engineering**
 
-- 🌱 I’m currently learning **Rust** & **Go**
-
 - 💬 I speak **french, dutch and english**
 
 <h3 align="left">Languages and tools I used in previous projects:</h3>
